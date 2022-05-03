@@ -1,2 +1,2 @@
 # notube
-Youtube but lighter than air...
+Instantly play Youtube videos using the power of puppeteer and invidious.

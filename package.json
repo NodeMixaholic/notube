@@ -1,0 +1,25 @@
+{
+  "name": "notube",
+  "version": "1.0.0",
+  "description": "Youtube but lighter than air...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodemixaholic/notube.git"
+  },
+  "author": "Samuel Lord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodemixaholic/notube/issues"
+  },
+  "homepage": "https://github.com/nodemixaholic/notube#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "mpv-play": "^0.0.1",
+    "puppeteer": "^13.3.1",
+    "request": "^2.88.2"
+  }
+}
